@@ -1,0 +1,26 @@
+{
+  "name": "vin-docs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PDF, DOCX, XLSX, PPTX and HTML to clean Markdown on this machine, with tables and page markers.",
+  "license": "MIT",
+  "author": "Lashvin Manimaran",
+  "repository": "github:VinVirtual/vin-docs",
+  "homepage": "https://github.com/VinVirtual/vin-docs",
+  "type": "module",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "markdown",
+    "pdf",
+    "docx",
+    "xlsx",
+    "pptx"
+  ],
+  "scripts": {
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
